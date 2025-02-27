@@ -1,3 +1,4 @@
+[![Star History Chart](https://api.star-history.com/svg?repos=你的用户名/仓库名&type=Timeline)](https://star-history.com/#你的用户名/仓库名&Timeline)
 # 🚀 3D IC先进封装热管理解决方案  
 **作者**：邓思敏 | **技术领域**: 异构集成/多物理场仿真  
 
